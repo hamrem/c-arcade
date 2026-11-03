@@ -10,6 +10,7 @@ Ce n'est pas une simple salle, c'est la salle d'HARDCADE.
                      | () () |
                       \  ^  /
                        |||||
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 git commit enregistre un instantané de tes fichiers sur ton PC, dans l’historique local de ton dépôt. Rien n’est envoyé sur Internet. Tu peux faire des commits sans connexion.
 
