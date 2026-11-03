@@ -4,16 +4,20 @@
 
 Ce n'est pas une simple salle, c'est la salle d'HARDCADE. 
 
-    .- <O> -.        .-====-.      ,-------.      .-=<>=-.
-   /_-\'''/-_\      / / '' \ \     |,-----.|     /__----__\
-  |/  o) (o  \|    | | ')(' | |   /,'-----'.\   |/ (')(') \|
-   \   ._.   /      \ \    / /   {_/(') (')\_}   \   __   /
-   ,>-_,,,_-<.       >'=jf='<     `.   _   .'    ,'--__--'.
- /      .      \    /        \     /'-___-'\    /    :|    \
-(_)     .     (_)  /          \   /         \  (_)   :|   (_)
- \_-----'____--/  (_)        (_) (_)_______(_)   |___:|____|
-  \___________/     |________|     \_______/     |_________|
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀```
+#   #   ###   ####   ####    ####   ###   ####   #####
+#   #  #   #  #   #  #   #  #      #   #  #   #  #
+#####  #####  ####   #   #  #      #####  #   #  ####
+#   #  #   #  #  #   #   #  #      #   #  #   #  #
+#   #  #   #  #   #  ####    ####  #   #  ####   #####
+
+                       _____
+                      /     \
+                     | () () |
+                      \  ^  /
+                       |||||
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 git commit enregistre un instantané de tes fichiers sur ton PC, dans l’historique local de ton dépôt. Rien n’est envoyé sur Internet. Tu peux faire des commits sans connexion.
 
 git push envoie sur GitHub tous les commits que tu as faits et qui n’y sont pas encore. C’est cette commande qui met à jour la version en ligne.
